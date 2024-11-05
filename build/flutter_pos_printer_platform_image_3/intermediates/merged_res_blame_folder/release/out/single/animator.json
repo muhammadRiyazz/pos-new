@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/animator/fragment_fade_exit.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-fragment-1.7.1-11:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/animator/fragment_close_exit.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-fragment-1.7.1-11:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/animator/fragment_fade_enter.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-fragment-1.7.1-11:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/animator/fragment_close_enter.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-fragment-1.7.1-11:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/animator/fragment_open_exit.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-fragment-1.7.1-11:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/animator/fragment_open_enter.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-fragment-1.7.1-11:/animator/fragment_open_enter.xml"
+    }
+]

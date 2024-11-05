@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/ime_secondary_split_test_activity.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/notification_action_tombstone.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/ime_base_split_test_activity.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/notification_template_part_chronometer.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/notification_template_icon_group.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/notification_template_part_time.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/custom_dialog.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/notification_template_custom_big.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "br.com.brasizza.sunmi_printer_plus-merged_res-26:/layout/notification_action.xml",
+        "source": "br.com.brasizza.sunmi_printer_plus-core-1.13.1-5:/layout/notification_action.xml"
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/values-es/values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\riyaz\\.gradle\\caches\\transforms-3\\54a4cfbaad86b9ab2273ca8263e4a153\\transformed\\core-1.13.1\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,787",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,883"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,1419",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,1515"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\riyaz\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_pos_printer_platform_image_3-1.2.0\\android\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "9,7,2,5,3,4,8,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "714,515,55,329,141,221,589,421",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "776,584,136,416,216,324,709,510"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "787,854,928,1014,1106,1186,1294,1520",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "849,923,1009,1101,1181,1289,1414,1609"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-mergeReleaseResources-24:/values-es/values-es.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\riyaz\\.gradle\\caches\\transforms-3\\54a4cfbaad86b9ab2273ca8263e4a153\\transformed\\core-1.13.1\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,787",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,883"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,16",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,1419",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,1515"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\riyaz\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\flutter_pos_printer_platform_image_3-1.2.0\\android\\src\\main\\res\\values-es\\strings.xml",
+                    "from": {
+                        "startLines": "9,7,2,5,3,4,8,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "714,515,55,329,141,221,589,421",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "776,584,136,416,216,324,709,510"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,17",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "787,854,928,1014,1106,1186,1294,1520",
+                        "endColumns": "66,73,85,91,79,107,124,93",
+                        "endOffsets": "849,923,1009,1101,1181,1289,1414,1609"
+                    }
+                }
+            ]
+        }
+    ]
+}

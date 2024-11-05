@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/layout-v21/notification_action.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/layout-v21/notification_template_icon_group.xml"
+    }
+]

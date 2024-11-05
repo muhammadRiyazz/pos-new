@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-anydpi-v21/ic_call_decline.xml"
+    }
+]

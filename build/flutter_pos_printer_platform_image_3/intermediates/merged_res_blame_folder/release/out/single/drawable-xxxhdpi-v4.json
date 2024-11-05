@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-xxxhdpi-v4/ic_call_decline_low.png",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-merged_res-26:/drawable-xxxhdpi-v4/ic_call_answer_low.png",
+        "source": "com.sersoluciones.flutter_pos_printer_platform.flutter_pos_printer_platform_image_3-core-1.13.1-5:/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    }
+]
